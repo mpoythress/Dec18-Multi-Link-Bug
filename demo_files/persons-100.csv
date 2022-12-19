@@ -1,0 +1,101 @@
+PersonID,EntityID,LegalName,EntityType,Number,Jurisdiction,EntityGroup,AuditExemption,FiscalYearEnd,IncDate,EntityStatus
+a1627e0a-9035-4a12-9ca9-179c436cf5ae,76f622d1-0488-4175-a9f9-50d71c661541,Bluezoom,Corporation,34036,Québec,,false,2021-11-12,2020-10-24,Inactive
+eeee9712-fa2e-4bbf-81f1-38d2fdb02995,62fed744-05e1-484a-9710-a5b0c33f38d5,Twitterbridge,Partnership,3,British Columbia,Ace Alice Group,,2021-06-03,,Active
+dd2194bd-95c3-4da0-8fdb-c85cc4ab183e,238b12d0-9200-4b92-abf4-1b98da4aeeb8,Plambee,,54798,California,Project Minute,false,,2020-06-15,Active
+04e20f2c-f5ac-45e3-b3bd-b6325a3444f6,0be47cc4-6cdb-4d36-ae3f-8816f01b9611,Rhybox,Corporation,9789,Québec,Project Minute,,2021-08-28,2022-08-10,Inactive
+66eeee26-7f52-4061-834f-4691b382a518,3acf0e18-d747-42a3-8ed5-9aa7c10fad98,Eadel,,914,Québec,Sloane Cooper,,2021-11-02,2022-02-03,Active
+3619cf26-0e94-49d5-9bed-69a02d8158c0,92ccea3c-480a-4b85-8df5-4a545a5f272d,Yombu,,0,Québec,Project Minute,,2021-06-15,2020-09-21,Active
+d56cbb4a-e9ea-4ea3-8e47-ead7c11bde16,ed099f48-2319-42d2-b4ce-76f53f770ab9,Buzzbean,Partnership,03,Alberta,Project Minute,,2021-04-15,2022-03-24,Active
+b6c474fc-305c-4ab0-acc9-60e0e12a9515,44bd3d43-dc11-4fd9-8484-a3c20dc115bf,Bluejam,Corporation,581,Québec,Ace Alice Group,,2021-10-20,2021-01-21,Inactive
+5359dc32-81d4-43d8-afe9-aadce1ea94bd,6573b1c1-e324-468c-857f-8b507d7ea4bb,Voomm,LLC,1,Québec,,true,2021-07-05,2020-06-14,Inactive
+c45c3468-9f6e-435c-8181-fa7eeabca84e,9fa54dac-6740-4d92-8eae-ca161916d24d,Linktype,LLC,158,Alberta,,false,,2022-03-25,Active
+89586d0d-d80d-42e6-95a7-71b786fbfe7f,7bb2e03c-0036-4ec0-9718-99087260b2b0,Lazzy,Corporation,6087,New York,Sloane Cooper,true,,2022-07-25,Active
+12804f01-1add-48e7-933f-6487546a879a,467a9dd3-2a53-48f6-94fa-df8b00b58795,Mymm,Corporation,180,Québec,,,2021-09-04,2022-05-26,Active
+bea12310-b288-46f0-b74e-91e7c9c89c69,1aca8c1c-c622-4ff4-be59-861082252f41,Dazzlesphere,,3,Ontario,Ace Alice Group,,2021-07-21,,Inactive
+bbc5075c-0d80-4f51-af17-6127003f8e6f,f7d4e418-ad99-4af8-b44e-f07ac2f1d13b,Oyoloo,LLC,9558,Nova Scotia,Ace Alice Group,,2021-10-06,,Inactive
+e11e1671-449e-4e58-be09-95d1cccd81bf,64e837df-0ef7-48a8-86bb-5c49d751cd94,Digitube,Corporation,7,California,,true,2021-06-29,,Active
+b0e18cc1-9a93-4909-a1b4-42875a2dd5e2,953b2747-b417-469b-b844-a3abdab1c25b,Realbridge,,43233,Alberta,,false,2021-09-18,,Inactive
+3bba5e65-61b1-432d-b42a-b8edf3541bcb,7fe696e2-1579-46cb-885d-1686e51a8bbf,Mycat,Partnership,280,California,Project Minute,,2021-12-01,2022-11-12,Inactive
+57f82932-70ea-49c4-9126-b02321538206,1c31f25c-c0e8-4077-b49c-e8394522bcc2,Thoughtbridge,LLC,301,British Columbia,,,2021-11-21,,Inactive
+869fb05d-ff15-492f-81be-ed2884a9280f,ca28af23-fec7-4fb4-9725-47be3df3e3d7,Jaxbean,Partnership,25,Québec,Project Minute,true,2021-09-28,2020-12-19,Inactive
+c059623c-4a24-40d0-a0e6-17dafc1bf745,ccefc1ff-8884-4652-9452-34342c04c476,Trudeo,Partnership,0618,Ontario,Ace Alice Group,false,2021-04-06,2020-07-16,Active
+2959d391-a056-4524-a327-5e630caf7a5d,15865d42-5ab2-437d-8751-5357af4ebe71,Muxo,LLC,5665,British Columbia,Sloane Cooper,,2021-06-29,,Active
+322ac2c0-eac3-47ba-af27-47f72be9c4d4,a8ffac5c-72f1-4c47-b32d-ded2556b8870,Jaxspan,,708,Québec,,false,2021-04-22,2020-09-13,Active
+9dfb714e-b69b-4828-9bcd-49f47ce28a98,3666e793-f345-4d05-a07c-c3a649610576,Trudoo,Corporation,9383,Alberta,,,2021-02-03,2021-09-13,Inactive
+22cb286f-1a8a-40cc-916b-4d3dc5db33e9,9a1534ab-ebda-49ac-af66-6a0ad1aa34fe,Innotype,Partnership,450,Ontario,Ace Alice Group,,2021-09-05,2021-06-28,Active
+fba2d7ad-78f6-43b0-b102-7369ee7bf4d4,7250e458-25cd-4325-92f7-0fb1fcfbf90e,Meevee,Partnership,7,California,,,2021-08-27,,Inactive
+40f2937b-9b6d-4fde-b940-d38e0af96a38,02bc3d09-461f-47ea-b7e2-6fce5f6d978c,Aimbu,Corporation,94693,Ontario,Sloane Cooper,false,2021-09-07,2020-09-03,Active
+b35e1f07-3325-4c80-b840-9e9b5fdb3b17,55f7e3b0-3961-44e6-995e-fbb9616fb51f,Mydo,LLC,492,Ontario,Sloane Cooper,,2021-08-27,2020-12-30,Active
+2e589053-7d2b-4c35-985c-3ceac3f35630,f698c604-e029-48d8-8bae-72152e494e7f,Buzzdog,,9,,Sloane Cooper,true,2021-06-25,,Active
+4e26e494-2ef9-4709-8891-37efc98434da,8033d8d0-5248-4e83-85f3-f97fb6d00a35,Vinder,LLC,221,,Project Minute,,2021-01-22,2022-05-11,Active
+9d0d3bd8-d3ba-4f04-9e8e-3f4413ed0ce2,57ada238-9486-4293-90ec-6e4977682f61,Eazzy,LLC,5145,New York,Project Minute,,2021-10-04,2021-01-28,Active
+e00b5a63-940e-4a64-96a6-870a5b2c88db,03a1d700-7be3-4c97-ae86-b311bc2a823d,Dabtype,Corporation,355,California,,,,,Active
+060dca7b-6671-4cd3-9c3f-dcedbe084ab1,33ffc1bc-e275-4f89-920c-73d7fb9ec107,Divape,LLC,08057,Québec,Ace Alice Group,,,2021-12-03,Inactive
+4f545e29-4fbe-4fd8-b031-03c3b777ccf8,caade2b2-5b24-4012-8723-2a8edca23527,Dynabox,Partnership,2,Québec,,false,2021-08-27,2020-09-30,Active
+f956da15-327b-4774-9901-7f0a0cb46c6f,8bbea747-3c35-438c-80ea-27ff45c3812f,Linktype,LLC,933,British Columbia,Sloane Cooper,,2021-03-26,2021-10-19,Inactive
+0161f1da-4225-4644-b5fc-172cffee77ce,33f5de0a-c3ca-44d5-ae05-21905fd08e64,Flashspan,LLC,25,Alberta,Sloane Cooper,,2021-04-22,2021-03-03,Active
+e6904865-7917-418a-9c7f-4594ca679191,4a266680-ff8f-49b1-afec-6d11dad22932,Trilith,,12,British Columbia,Sloane Cooper,,2021-04-20,,Inactive
+87f99db8-bd0a-4b09-8e44-e7bfc126f313,c6647851-bcb2-4879-9515-11ad1a79c9cb,Photobean,LLC,8701,Québec,,false,2021-07-23,2021-06-06,Active
+0ec3cf71-e4c7-43f1-b789-fc9a3178693b,47b0fa70-5e69-4ee8-ac01-852ee494ff12,Roombo,Corporation,9,California,,false,,2021-10-19,Active
+ba247c25-0bd9-4365-8401-09ccb8f64f7e,e3613f54-1d63-48ba-a22a-4155fa95bb52,Edgetag,Corporation,92,Ontario,Project Minute,,,2020-07-12,Inactive
+9d4db1df-fb50-4717-bf74-9e83aac8b03a,4e4c2baf-9c54-41c1-8eda-7dfd7f2fad00,Skipfire,Partnership,29536,Québec,Project Minute,,2021-01-14,2020-06-18,Active
+ce3cc4bc-4ca1-43be-a051-12e215f9b8b6,6314d0dc-5dcd-44eb-9b61-9ba889938fb6,Npath,,65,California,,,,2022-06-01,Active
+4f2596e3-298f-4279-8301-1ad71135dd0f,6838e085-7502-4a43-b959-c15cc715a2e7,Quatz,,404,British Columbia,Ace Alice Group,true,2021-01-30,,Inactive
+fa759d28-0404-4504-99d9-436be52644fe,cb08b6d3-7c61-401c-b59d-eb4b6cda59f5,Linkbridge,Corporation,749,Québec,Sloane Cooper,true,2021-11-14,2021-08-13,Active
+c180a8d7-194b-4c68-9938-a37bac00cc85,fee15f89-e7ee-40e0-8fa4-5296b4f70c85,Skyba,Corporation,203,Maryland,Project Minute,,2021-07-01,,Active
+08424d42-bf46-479d-b031-8a3075f3a3ec,0dfd8493-2e7d-448a-8f44-ffb3a850843c,Topiczoom,LLC,195,Ontario,,,2021-08-06,2022-02-18,Active
+0d91f248-014d-430d-9c0a-59c0d21d00de,e71e1a5b-0b9a-477f-9d34-c407bf144ca4,Zazio,LLC,08,Ontario,Sloane Cooper,,,2021-04-03,Inactive
+137f1509-4078-438d-b9c6-c1c886f30ef4,27088a2f-c32b-4e3b-8b32-805002127728,Divavu,Partnership,472,Alberta,Sloane Cooper,true,2021-09-07,2021-08-29,Inactive
+af110bd5-305a-4cc4-871b-0b0a631228eb,61602ba6-ad45-4811-aeb2-c97f0b1c37f4,Fliptune,Partnership,53025,Ontario,,,2021-03-08,2022-07-29,Active
+e9fac49e-8949-4f7f-9e66-57dae3755b7f,ad1e7046-8f1b-436d-a1a3-f352e1a46db9,Oyondu,Corporation,09180,Ontario,Ace Alice Group,,2021-06-27,2022-09-20,Active
+283cbe71-590b-46bc-acca-080479c5d477,78c73f9f-f0e5-4c75-981b-263977993f2d,Zoovu,Corporation,285,,Project Minute,false,2021-02-24,2022-06-23,Active
+b756b530-15b9-403f-b9eb-6cf91962e81b,a471beec-e603-425a-9363-39cf50af25e7,Jayo,,2672,British Columbia,,false,2021-02-25,2021-02-08,Inactive
+006c0b1f-58ca-4b7d-aa43-a20f7803b9e2,ee289bb2-57c1-43a0-82ed-0ea40f67bfd4,Brainsphere,Corporation,8,New York,Project Minute,,,2022-09-13,Inactive
+ab5b550b-c9be-4dd0-b846-857c9ae9ea1e,0574bde7-a1eb-40c3-96a9-4fda2d4407ae,Jabbertype,Partnership,405,California,Sloane Cooper,,2021-05-27,2022-06-26,Active
+22e8b8aa-bc89-4d0c-b143-84309727172f,e88e2dcc-95e9-4d13-b41d-27c23a5298e6,Flipbug,Partnership,3829,British Columbia,Ace Alice Group,,2021-03-30,2022-05-12,Active
+886e26b2-5569-4737-a710-c4232214968e,93d80c55-2b3e-43f3-9e56-1f3be2a320a2,Quimm,Corporation,6,,,,2021-06-14,2020-08-28,Active
+91245479-1191-401f-9ce1-f526bd732682,cf651520-8dbe-4297-818d-82d725557b59,Katz,,922,Québec,Project Minute,true,2021-04-13,2022-09-03,Active
+ff151a3f-529e-4859-9082-a53d6f1d9e07,400656ac-3281-40ad-a205-82cff87f8664,Mydo,Partnership,020,Québec,Project Minute,,2021-04-05,2020-09-13,Active
+a792f3aa-b244-4579-9084-262ffad416a8,65e18bb7-b2dc-4ea3-b8d7-775089292328,Fliptune,Corporation,1,Ontario,Project Minute,false,,2020-10-11,Inactive
+ddaea5a0-83f3-4b7f-b7f1-c3d514e047b8,ba239481-7758-4d2d-ae5e-a592371f75b0,Aimbu,LLC,27721,Québec,Ace Alice Group,true,2021-04-17,2020-12-29,Inactive
+c26ddd29-dc3c-4728-8f52-46e2b6622c3c,82e49435-b5d8-40fa-8b26-8f09a62b5052,Divanoodle,,7676,Ontario,,,2021-02-06,,Inactive
+f7e851ed-6466-4c9d-a3aa-5522220bda56,60616158-0afe-4d67-b227-d5a851574b0b,Skipfire,LLC,1,California,,,,2021-08-21,Active
+0e7a8c64-9d80-4501-ab1a-11c670d7b114,36053afc-505b-4af4-ab89-93bd6435c549,Tazzy,Corporation,6,California,Project Minute,,,2022-11-21,Active
+20bbf987-75fe-4ed5-a83a-0233b8f89c0e,e9aca2cd-a0e3-4802-8e50-164995bffc0b,Youtags,,3151,Québec,Sloane Cooper,false,2021-06-10,,Active
+6fd11eb0-b2da-4970-be71-f54e48cce61a,8a338b40-7e03-4e06-af63-49ef5a29a15b,Dabfeed,Corporation,855,Manitoba,Sloane Cooper,false,2021-08-22,2021-08-18,Inactive
+5aa272e9-80a5-426c-bc65-7257a1c38027,12a3f014-08aa-41f8-a7b2-f29985f35c46,Riffpedia,Partnership,53,Manitoba,Ace Alice Group,,2021-05-28,2020-06-03,Active
+eec05dde-f43f-4e13-9972-9ebeededa4fa,590a124d-4bfe-4a1d-92f0-d663e3c6cb84,Flashspan,Partnership,2589,California,Ace Alice Group,,,2020-06-26,Active
+64949e17-38de-4068-812a-e4ac15552696,96553832-acbf-4dcc-8b88-61281f4fef44,Thoughtbridge,Corporation,57373,New York,,,2021-06-11,2020-11-18,Active
+17a9b44a-55b8-4727-a0db-3a5017347fc1,732aacdd-cf72-4f19-8e66-a784ffaa6e4b,Oodoo,,6,,Project Minute,false,,2021-03-16,Inactive
+8fb74ed4-dade-4571-a258-9188d976236e,a2404610-b135-4710-a500-f1de9d99c483,Jabberbean,Corporation,1,Québec,Sloane Cooper,true,,2022-06-06,Active
+c2e453dd-6969-4604-a202-833d74b64d9a,dd25002c-cac7-4941-8ff5-95e8eecaef6f,Eazzy,Partnership,0,Québec,Project Minute,,2021-10-11,2022-02-14,Active
+034e1dac-9355-4fbc-a012-78c5afdb5a76,33e3c84a-2229-45a5-9327-671b58d0779c,Devpoint,Corporation,95422,New York,,false,2021-12-07,2020-06-28,Active
+ef1500e5-684c-43fc-b07c-92b3bdd929a9,b6a45723-8fa5-4ccf-97d5-368024ad4fcf,Kaymbo,LLC,5165,British Columbia,Project Minute,,2021-04-30,2022-03-20,Inactive
+5215a8a3-03a8-4b7b-afa4-5e7575887f91,148cd3db-e791-48b4-8ddc-42fc14a05a77,Trudeo,Partnership,09,California,,,2021-05-05,2020-09-20,Active
+f349cf1c-439b-4fc5-9ab5-11179edaf542,97525372-fcd4-41df-ba39-1cf3be38d8d8,Flipbug,Corporation,5811,California,Ace Alice Group,true,2021-12-26,2021-05-12,Active
+de74f6be-4db3-435f-9266-1a8617088c27,69625d03-b961-4e4f-9fb5-e495509a19f7,Kare,,0,California,,,2021-02-20,,Active
+1ded4556-9492-41df-ad74-3d5cddc6781b,364cba21-7b67-4843-8636-dfccf014e036,Aimbo,Corporation,111,California,Ace Alice Group,,2021-06-10,2022-06-19,Inactive
+e22cb150-68b5-4db1-8a04-bc4033bc4d19,40b6d137-b055-4c72-a81b-22a893f0ad89,Leenti,Partnership,2,Alberta,Ace Alice Group,,,2020-08-24,Active
+25d731c9-4313-4e1b-93e1-87da60ef87ed,f9e2f1a8-3303-409b-b488-4eb0f4b772b3,Shufflester,Corporation,1,Québec,,false,,2021-08-14,Active
+c3a244d4-8e87-4282-828a-df70bad5407a,4084ff02-42d2-4adf-b0e7-485c195f8579,Oyoba,Partnership,3416,New York,Sloane Cooper,false,2021-09-05,2022-07-20,Inactive
+370cdbf2-d75e-4a72-aa1e-ea64853e97ec,f7d6fe92-c84f-4776-b1e7-c1ba3963ad7a,Twitternation,Partnership,7,California,Ace Alice Group,,2021-11-22,,Inactive
+4b5b01fb-d3e9-44bc-aaa9-885c8e4150b5,40c1cfc2-5e71-4ddb-9aa1-c2aaf2a72041,Jabberstorm,LLC,93563,California,Ace Alice Group,,2021-06-27,2020-08-16,Inactive
+632ccb67-cd41-4db1-a0ba-66a8643b569a,11704c98-480b-43a1-8b0c-325380e7dda0,Photofeed,LLC,92704,California,,,2021-05-28,2021-03-15,Active
+11aa72ee-bdc3-45bc-8954-40ed3acab347,c1318a2b-dded-46f4-ae12-665d164e013a,Kanoodle,Corporation,0,Ontario,,,2021-08-28,2020-07-19,Inactive
+8ca1ca6b-2dac-46a4-9574-ef11a6cef2fd,c93d234d-ebc1-4e76-a4e5-e11e6825b32f,Minyx,LLC,4115,New York,Project Minute,,2021-09-28,2022-02-22,Active
+b24cd460-95f7-4c44-aec6-f90b69a3f1fb,75b04897-9dfe-4287-a62a-3a0368a3e242,Voolia,Partnership,31,California,,false,2021-06-05,,Inactive
+1aab6cde-2b0b-4e42-9f94-2866d71d63bc,2f16e2f9-7c59-451f-970f-a9e23d2a10cd,Zooxo,,0,Ontario,,,2021-11-12,2022-06-17,Active
+4fc36e04-9831-4656-83f1-36e8ddb3bb62,8a6caddb-7978-4af9-8007-aaa7149cfd5b,Myworks,Corporation,845,Québec,Ace Alice Group,false,2021-02-27,2022-08-19,Active
+0844dc3a-124a-4e18-931e-6c6c4cc6e595,7b8a2d05-5d92-4715-a703-ab80d24ff687,Reallinks,Corporation,19773,Québec,Project Minute,,,,Inactive
+5ea53d44-9fb5-46d3-9e69-b1d6c40377f5,f77bf7a8-62d7-452e-8210-3fb7c1a58095,Quatz,,20061,Québec,,,2021-09-10,2020-11-06,Active
+3af172e7-255f-48b6-8dea-cc55a6d8bece,44ad651c-a9b5-4843-a7b0-0eb388528c68,Yombu,,41290,Québec,Sloane Cooper,,2021-04-18,2021-10-29,Inactive
+d76f27fe-1cf5-4759-a1f7-8287426ae1ee,e5d5fcab-7a46-434d-84bf-a0a7b48e6341,Dynazzy,,5,,,,2021-12-05,2022-03-21,Inactive
+7b361425-5ad3-4be4-8f2f-7f80bc5c63b4,484295d6-7270-4fda-9173-5777b88c9971,Eire,Corporation,105,Québec,,,2021-02-07,,Inactive
+4023609d-a367-48f3-9837-1b26b2408ad1,47e643c1-78bb-4154-9ab8-ff59dc21aa15,Yakitri,Partnership,934,Ontario,,,2021-02-07,,Active
+1045260e-8e9a-4a7f-8890-32be9c1d46ed,2efa5e50-4d76-4b3b-90fb-23ef6c4e8d55,Oodoo,LLC,4,,Project Minute,,2021-05-17,2022-10-17,Inactive
+ab1bb486-9f79-4518-96a9-86c4ca0b8c06,890224dd-0f78-43db-aed2-81e60a9bcba3,Yacero,LLC,7,British Columbia,,,2021-08-21,2022-01-02,Active
+68e6ae8b-4a8d-48c2-bec4-1e51a5fb2881,f5710402-90ec-4559-a95d-1544fd445560,Wordware,,6,California,Ace Alice Group,true,2021-08-27,2021-07-01,Inactive
+4880d541-92f3-46e7-a7a4-f01e9c566b84,48fdd074-fe09-4c5e-bcf5-6438dca376c1,Fliptune,Partnership,5,Alberta,,,,2022-08-11,Inactive
+f5c9b9d1-36b2-4c68-9cb9-f1cbc42bdc53,381796c8-137f-4123-ac11-3ae85a800434,Jaloo,Partnership,4279,California,,false,2021-10-08,2021-04-15,Active
+fe768f33-793d-4253-837e-e4521e5129b3,6f2cb023-0e55-433f-a9e0-ccbdbe90ecd5,Talane,,0018,Québec,Ace Alice Group,true,2021-01-07,2020-08-17,Active
+85bb8760-d9cf-4b7e-aed2-633df9228708,20b380da-313d-45a0-9e9d-a1e0e8f5fa2a,Skyndu,,73,Québec,Ace Alice Group,,2021-04-19,2020-12-20,Active

@@ -6,8 +6,7 @@
  */
 
 import {
-  NumberField,
-  Portal,
+  LinkedField,
   Sheet,
   TextField,
   Workbook,
@@ -18,28 +17,47 @@ import {
  * Define your Sheet configuration and Fields here, or import them:
  * import { YourSheet } from './path-to-your-sheet/your-sheet.ts'
  */
-const MySheet = new Sheet('MySheet', {
-  firstName: TextField(),
-  lastName: TextField(),
-  age: NumberField(),
+const Persons = new Sheet('Persons', {
+  PersonID: TextField({
+    label: 'Person ID',
+    unique: true,
+    required: true,
+    primary: true,
+  }),
+
+  LegalName: TextField({
+    label: 'Legal Name',
+    description: 'This is a more detailed description of the field',
+    required: true,
+  }),
+},
+{
+  previewFieldKey: 'LegalName',
 })
 
-/**
- * Portals
- * Define your Portals here, or import them:
- * import { YourPortal } from './path-to-your-portal/your-portal.ts'
- */
-const MyPortal = new Portal({
-  name: 'MyPortal',
-  sheet: 'MySheet',
+const Directors = new Sheet('Directors', {
+  DirectorID: TextField({
+    label: 'Director ID',
+  }),
+
+  PersonID: LinkedField({
+    label: 'Person',
+    sheet: Persons,
+    required: true,
+  }),
+
+  ElectedDate: TextField({
+    label: 'Elected Date',
+  }),
 })
+
 
 // Workbook  - Update to reference your Workbook with Sheet(s) and Portal(s)
 export default new Workbook({
-  name: 'MyWorkbook',
-  namespace: 'my-workbook',
-  portals: [MyPortal],
+  name: 'Dec18-Multi-Link-Bug',
+  namespace: 'Dec18-Multi-Link-Bug',
   sheets: {
-    MySheet,
+    Persons,
+    Directors
   },
 })
